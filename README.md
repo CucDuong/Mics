@@ -1,2 +1,2 @@
-# DRFM
-DRFM Code
+# Matlab-Neural-Net
+Matlab-Neural-Net Tutorial Code
