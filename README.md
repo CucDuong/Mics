@@ -1,2 +1,2 @@
-# Matlab-Neural-Net
-Matlab-Neural-Net Tutorial Code
+# Mics code
+Mics code
