@@ -1,4 +1,4 @@
-# Mics code
+# Running instruction
 
 Create a folder name "lstm_runs" on your working folder
 
